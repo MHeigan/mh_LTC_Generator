@@ -112,5 +112,5 @@ VirusTotal - clean scan.
 
 [anti-matter-3d.com/timecode/](https://anti-matter-3d.com/timecode/)
 
-Â© 2026 Martin P. Heigan. All Rights Reserved.
+© 2026 Martin P. Heigan. All Rights Reserved.
 
