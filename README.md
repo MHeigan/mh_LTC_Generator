@@ -6,7 +6,7 @@ Converts timecode data into a bi-phase mark encoded audio signal, routable to
 any audio output â€” field recorder, camera audio track, or audio interface â€” for
 shot synchronisation in film, television, commercial, and gaming production.
 
-> **Latest release: v2.0.3** - see the [Releases](../../releases) page to
+> **Latest release: v2.0.3** - see the [Releases](https://github.com/MHeigan/mh_LTC_Generator/releases/tag/mh_LTC_Generator_v2_0_3) page to
 > download.
 
 - - -
